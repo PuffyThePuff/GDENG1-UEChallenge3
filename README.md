@@ -1,4 +1,4 @@
-# GDENG1-UEChallenge3
-GDENG1-UE Challenge 3 Template
+# GDENG02-UEChallenge3
+GDENG02-UE Challenge 3
 
-Access **Unfurnished Room.umap** which is your starting map/template.
+A small room showcasing materials and post-processing effects in UE5
